@@ -1,0 +1,13 @@
+add_executable(
+        archiver
+        BitsReader.h
+        BitsReader.cpp
+        BinaryHeap.h
+        BitsWriter.h
+        BitsWriter.cpp
+        HaffmanAlgorithm.h
+        HaffmanAlgorithm.cpp
+        Archiver.h
+        Archiver.cpp
+        main.cpp
+)
